@@ -17,7 +17,7 @@
 
 **[Overview](#overview)** &nbsp;•&nbsp;
 **[Progress](#-progress-dashboard)** &nbsp;•&nbsp;
-**[Roadmap](#-curriculum-roadmap)** &nbsp;•&nbsp;
+**[Roadmap](#-course-curriculum)** &nbsp;•&nbsp;
 **[Mock Test](#-tcs-nqt-mock-test)**;
 
 </div>
