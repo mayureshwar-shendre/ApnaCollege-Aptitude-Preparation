@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="./assets/Quantitative_Aptitude.png" alt="Prime 3.0 AI/ML Learning Journey" width="100%"/>
+
 # Quantitative Aptitude
 
 **Topics:** 26 · **Workflow:** Notes → Easy practice → Medium practice → Mistake review
@@ -33,10 +37,3 @@
 | 25 | [Mensuration](./topics/mensuration/README.md) | [Notes](./topics/mensuration/notes/lecture-notes.md) | [Easy](./topics/mensuration/practice/easy.md) | [Medium](./topics/mensuration/practice/medium.md) | [Review](./topics/mensuration/review/mistakes-log.md) | Not started |
 | 26 | [Geometry](./topics/geometry/README.md) | [Notes](./topics/geometry/notes/lecture-notes.md) | [Easy](./topics/geometry/practice/easy.md) | [Medium](./topics/geometry/practice/medium.md) | [Review](./topics/geometry/review/mistakes-log.md) | Not started |
 
-## Recommended sequence
-
-1. Learn the concept and complete the notes.
-2. Attempt Easy practice under a reasonable time limit.
-3. Review all errors before moving on.
-4. Attempt Medium practice and record accuracy.
-5. Revisit weak topics during weekly revision.
