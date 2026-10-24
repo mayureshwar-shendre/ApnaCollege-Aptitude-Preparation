@@ -46,6 +46,8 @@ Progress is automatically calculated from the checkboxes in topic, practice, and
 | TCS Ninja + Digital mock tests | 0/20 | `░░░░░░░░░░` 0% |
 | **Overall deliverables** | **0/203** | **`░░░░░░░░░░` 0%** |
 
+> Progress is calculated from checked Markdown boxes. Topic completion requires all five topic checklist items to be checked. Practice papers and mock tests require their explicit completion checkbox.
+
 ### Section progress
 
 | Section | Completed topics | Progress |
