@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="../assets/Test_Papers.png" width="100%"/>
+
 # TCS NQT Ninja Mock Tests
 
 **Target level:** Easy to Medium · **Papers:** 10
