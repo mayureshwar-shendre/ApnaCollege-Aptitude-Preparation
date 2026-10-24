@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="TCS NQT Aptitude Mastery banner" width="100%">
+<img src="./assets/Aptitude_Preparation_Banner.png" alt="TCS NQT Aptitude Mastery banner" width="100%">
 
 # 🎯 ApnaCollege Aptitude Preparation
 
@@ -15,9 +15,12 @@
 
 *One repository. Four aptitude domains. Topic-wise practice. A complete TCS NQT revision system.*
 
+### 👤 Mayureshwar Shendre 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mayureshwar-shendre)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayureshwar-shendre-490a20290)
+
 **[Overview](#overview)** &nbsp;•&nbsp;
 **[Progress](#-progress-dashboard)** &nbsp;•&nbsp;
-**[Roadmap](#%EF%B8%8F-course-curriculum)** &nbsp;•&nbsp;
+**[Curriculum](#%EF%B8%8F-course-curriculum)** &nbsp;•&nbsp;
 **[Mock Test](#-tcs-nqt-mock-tests)**;
 
 </div>
@@ -124,3 +127,14 @@ Progress is automatically calculated from the checkboxes in topic, practice, and
 | 09 | [Digital Test 9](./06-tcs-digital-tests/test-09.md) | Advanced | | ⬜ |
 | 10 | [Digital Test 10](./06-tcs-digital-tests/test-10.md) | Advanced | | ⬜ |
 
+<div align="center">
+  
+## 👤 Connect: **Mayureshwar Shendre** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mayureshwar-shendre)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayureshwar-shendre-490a20290)
+
+<div align="center">
+
+⭐ Star if this helps · 🍴 Fork to add your notes · 📢 Share with your batchmates
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer" width="100%" alt=""/>
+
+</div>
