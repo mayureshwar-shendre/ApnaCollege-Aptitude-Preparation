@@ -16,9 +16,9 @@
 *One repository. Four aptitude domains. Topic-wise practice. A complete TCS NQT revision system.*
 
 **[Overview](#overview)** &nbsp;•&nbsp;
-**[Progress](#progress-dashboard)** &nbsp;•&nbsp;
-**[Roadmap](#curriculum-roadmap)** &nbsp;•&nbsp;
-**[Mock Test](#tcs-nqt-mock-test)**;
+**[Progress](#-progress-dashboard)** &nbsp;•&nbsp;
+**[Roadmap](#-curriculum-roadmap)** &nbsp;•&nbsp;
+**[Mock Test](#-tcs-nqt-mock-test)**;
 
 </div>
 
