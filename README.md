@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/Aptitude_Preparation_Banner.png" alt="TCS NQT Aptitude Mastery banner" width="100%">
+<img src="./assets/Aptitude_Preparation_Banner.png" alt="Aptitude Preparation banner" width="100%">
 
 # 🎯 ApnaCollege Aptitude Preparation
 
