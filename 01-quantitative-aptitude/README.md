@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/Quantitative_Aptitude.png" alt="Prime 3.0 AI/ML Learning Journey" width="100%"/>
+<img src="../assets/Quantitative_Aptitude.png" width="100%"/>
 
 # Quantitative Aptitude
 
