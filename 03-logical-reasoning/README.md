@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="../assets/Logical_Reasoning.png" width="100%"/>
+
 # Logical Reasoning
 
 **Topics:** 20 · **Workflow:** Notes → Easy practice → Medium practice → Mistake review
@@ -26,11 +30,3 @@
 | 18 | [Ordering Puzzles](./topics/ordering-puzzles/README.md) | [Notes](./topics/ordering-puzzles/notes/lecture-notes.md) | [Easy](./topics/ordering-puzzles/practice/easy.md) | [Medium](./topics/ordering-puzzles/practice/medium.md) | [Review](./topics/ordering-puzzles/review/mistakes-log.md) | Not started |
 | 19 | [Stack-Based Puzzles](./topics/stack-based-puzzles/README.md) | [Notes](./topics/stack-based-puzzles/notes/lecture-notes.md) | [Easy](./topics/stack-based-puzzles/practice/easy.md) | [Medium](./topics/stack-based-puzzles/practice/medium.md) | [Review](./topics/stack-based-puzzles/review/mistakes-log.md) | Not started |
 | 20 | [Days and Months Puzzles](./topics/days-and-months-puzzles/README.md) | [Notes](./topics/days-and-months-puzzles/notes/lecture-notes.md) | [Easy](./topics/days-and-months-puzzles/practice/easy.md) | [Medium](./topics/days-and-months-puzzles/practice/medium.md) | [Review](./topics/days-and-months-puzzles/review/mistakes-log.md) | Not started |
-
-## Recommended sequence
-
-1. Learn the concept and complete the notes.
-2. Attempt Easy practice under a reasonable time limit.
-3. Review all errors before moving on.
-4. Attempt Medium practice and record accuracy.
-5. Revisit weak topics during weekly revision.
