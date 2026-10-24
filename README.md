@@ -21,7 +21,7 @@
 **[Overview](#overview)** &nbsp;•&nbsp;
 **[Progress](#-progress-dashboard)** &nbsp;•&nbsp;
 **[Curriculum](#%EF%B8%8F-course-curriculum)** &nbsp;•&nbsp;
-**[Mock Test](#-tcs-nqt-mock-tests)**;
+**[Mock Test](#-tcs-nqt-mock-tests)**
 
 </div>
 
@@ -45,8 +45,6 @@ Progress is automatically calculated from the checkboxes in topic, practice, and
 | Easy / Medium practice papers | 0/122 | `░░░░░░░░░░` 0% |
 | TCS Ninja + Digital mock tests | 0/20 | `░░░░░░░░░░` 0% |
 | **Overall deliverables** | **0/203** | **`░░░░░░░░░░` 0%** |
-
-> Progress is calculated from checked Markdown boxes. Topic completion requires all five topic checklist items to be checked. Practice papers and mock tests require their explicit completion checkbox.
 
 ### Section progress
 
