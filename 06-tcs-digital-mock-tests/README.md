@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="../assets/Test_Papers.png" width="100%"/>
+
 # TCS NQT Digital Mock Tests
 
 **Target level:** Advanced · **Papers:** 10
