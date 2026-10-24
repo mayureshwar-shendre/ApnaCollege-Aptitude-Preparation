@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="../assets/Verbal_Ability.png" width="100%"/>
+
 # Verbal Ability
 
 **Topics:** 10 · **Workflow:** Notes → Easy practice → Medium practice → Mistake review
@@ -17,10 +21,3 @@
 | 09 | [Active and Passive Voice](./topics/active-and-passive-voice/README.md) | [Notes](./topics/active-and-passive-voice/notes/lecture-notes.md) | [Easy](./topics/active-and-passive-voice/practice/easy.md) | [Medium](./topics/active-and-passive-voice/practice/medium.md) | [Review](./topics/active-and-passive-voice/review/mistakes-log.md) | Not started |
 | 10 | [Reading Comprehension](./topics/reading-comprehension/README.md) | [Notes](./topics/reading-comprehension/notes/lecture-notes.md) | [Easy](./topics/reading-comprehension/practice/easy.md) | [Medium](./topics/reading-comprehension/practice/medium.md) | [Review](./topics/reading-comprehension/review/mistakes-log.md) | Not started |
 
-## Recommended sequence
-
-1. Learn the concept and complete the notes.
-2. Attempt Easy practice under a reasonable time limit.
-3. Review all errors before moving on.
-4. Attempt Medium practice and record accuracy.
-5. Revisit weak topics during weekly revision.
