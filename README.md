@@ -41,10 +41,10 @@ Progress is automatically calculated from the checkboxes in topic, practice, and
 <!--PROGRESS_START-->
 | Learning metric | Completed / Total | Progress |
 |---|---:|---|
-| Topics | 5/61 | `█░░░░░░░░░` 8% |
+| Topics | 10/61 | `██░░░░░░░░` 16% |
 | Easy / Medium practice papers | 0/122 | `░░░░░░░░░░` 0% |
 | TCS Ninja + Digital mock tests | 0/20 | `░░░░░░░░░░` 0% |
-| **Overall deliverables** | **5/203** | **`░░░░░░░░░░` 2%** |
+| **Overall deliverables** | **10/203** | **`░░░░░░░░░░` 5%** |
 
 > Progress is calculated from checked Markdown boxes. Topic completion requires all five topic checklist items to be checked. Practice papers and mock tests require their explicit completion checkbox.
 
@@ -52,7 +52,7 @@ Progress is automatically calculated from the checkboxes in topic, practice, and
 
 | Section | Completed topics | Progress |
 |---|---:|---|
-| [01-quantitative-aptitude](./01-quantitative-aptitude/README.md) | 5/26 | `██░░░░░░░░` 19% |
+| [01-quantitative-aptitude](./01-quantitative-aptitude/README.md) | 10/26 | `████░░░░░░` 38% |
 | [02-data-interpretation](./02-data-interpretation/README.md) | 0/5 | `░░░░░░░░░░` 0% |
 | [03-logical-reasoning](./03-logical-reasoning/README.md) | 0/20 | `░░░░░░░░░░` 0% |
 | [04-verbal-ability](./04-verbal-ability/README.md) | 0/10 | `░░░░░░░░░░` 0% |
